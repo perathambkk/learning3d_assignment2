@@ -1,5 +1,7 @@
 # 16-889 Assignment 2: Single View to 3D
 
+(I modified some codes to support pytorch3d 0.7.2. Also this repo is supposed to be pretty much runable in colab.)
+
 Goals: In this assignment, you will explore the types of loss and decoder functions for regressing to voxels, point clouds, and mesh representation from single view RGB input. 
 
 ## 0. Setup
